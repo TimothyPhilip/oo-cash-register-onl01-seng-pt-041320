@@ -40,7 +40,9 @@ class CashRegister
 #    binding.pry
   end
   
-  def 
+  def void_last_transaction
+    @items = @items - @items.pop
+  end
   
   
 end 
