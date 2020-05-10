@@ -40,7 +40,7 @@ class CashRegister
 #    binding.pry
   end
   
-  
+  def 
   
   
 end 
